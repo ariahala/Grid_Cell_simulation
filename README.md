@@ -6,3 +6,7 @@ simulations are based on a paper by Alessandro Treves in this link:
 https://arxiv.org/abs/1203.3966
 
 the simulation was done using java language, and the results were after processed and viewed using matlab, which I privided both codes in this repoitory.
+
+this is a sample data produced by the model, it's the receptive field of a neuron which has shaped a grid cell.
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
