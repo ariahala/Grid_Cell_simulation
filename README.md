@@ -9,4 +9,5 @@ the simulation was done using java language, and the results were after processe
 
 this is a sample data produced by the model, it's the receptive field of a neuron which has shaped a grid cell.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![first sample](sample_1.png?raw=true "Title")
+![second sample](sample_2.png?raw=true "Title")
