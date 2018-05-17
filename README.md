@@ -8,6 +8,9 @@ https://arxiv.org/abs/1203.3966
 the simulation was done using java language, and the results were after processed and viewed using matlab, which I privided both codes in this repoitory.
 
 this is a sample data produced by the model, it's the receptive field of a neuron which has shaped a grid cell.
+Receptive field and Autocorrelogram are shown below:
 
-![first sample](sample_1.png?raw=true "Title")
-![second sample](sample_2.png?raw=true "Title")
+
+
+![first sample](sample_2.png?raw=true "First sample")
+![second sample](sample_1.png?raw=true "Second sample")
